@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="front_text">Front</string>
+    <string name="company_name">Mukyu Company</string>
+    <string name="face_image_description">My face</string>
+    <string name="position">President</string>
+    <string name="your_name">Yxxxxxx Oxxxx</string>
+    <string name="address_text">Addr</string>
+    <string name="your_address">------</string>
+    <string name="fax_text">FAX</string>
+    <string name="your_fax">------</string>
+    <string name="phone_number_text">TEL</string>
+    <string name="your_phone_number">------</string>
+    <string name="email_text">E-mail</string>
+    <string name="your_email">------@------</string>
+    <string name="back_text">Back</string>
+    <string name="company_description_head_line">Home like environment</string>
+    <string name="company_image_description">Company Logo</string>
+    <string name="company_description">"    Our company takes good care of thinking working and feel happiness in every day.\n  Logo's shape comes from president's name, Yxxxxxx Oxxxx. Red means passion, Yellow means happiness."</string>
+</resources>
